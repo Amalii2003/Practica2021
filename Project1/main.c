@@ -1,4 +1,5 @@
 #include <stdio.h>
+// додано коментарі
 int main(void) {
 	char test[255] = { 0 };
 	int test1 = 2;
